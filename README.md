@@ -16,6 +16,11 @@ This project uses a Large Language Model (LLM) to analyze sales data and provide
 2. Install the required packages:
    ```sh  
     pip install -r requirements.txt
-4. Start the Streamlit app:
+3. Start the Streamlit app:
    ```sh
     streamlit run app.py
+
+4. Enter your GroqCloud API Key
+   ```sh
+   https://console.groq.com/keys
+4
