@@ -13,7 +13,9 @@ This project uses a Large Language Model (LLM) to analyze sales data and provide
 1. Clone the repository:
    ```sh
    git clone https://github.com/zainulabideen3434/Sales_Analysis_Excercise
-2. Install the required packages:   
+2. Install the required packages:
+   ```sh  
     pip install -r requirements.txt
-3. Start the Streamlit app:
+4. Start the Streamlit app:
+   ```sh
     streamlit run app.py
